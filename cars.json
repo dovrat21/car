@@ -1,0 +1,26 @@
+[
+  {
+    "brand" : "Toyota",
+    "model" : "Corola",
+    "km"    : 240000,
+    "year"  : 2002
+  },
+  {
+    "brand" : "Honda",
+    "model" : "Civic",
+    "km"    : 11222,
+    "year"  : 2017
+  },
+  {
+    "brand" : "Mercedes",
+    "model" : "S500",
+    "km"    : 150000,
+    "year"  : 2002
+  },
+  {
+    "brand" : "Subaru",
+    "model" : "B4",
+    "km"    : 155566,
+    "year"  : 2002
+  }
+]
